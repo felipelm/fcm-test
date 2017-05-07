@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662165356195",
+    "firebase_url": "https://desenrolav2-bb776.firebaseio.com",
+    "project_id": "desenrolav2-bb776",
+    "storage_bucket": "desenrolav2-bb776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662165356195:android:aadbafcbec26d108",
+        "android_client_info": {
+          "package_name": "com.reactdesenrola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662165356195-b5frkc5ppeo7409ptgjiclnt2hl31oh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ04W95ybBo2jiNNr43NztRYX0BGSOLhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
